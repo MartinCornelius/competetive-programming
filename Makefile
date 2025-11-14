@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++20 -O2 -Wall
+CXXFLAGS = -std=c++20 -O2
 
 ifeq ($(OS),Windows_NT)
     # Windows
